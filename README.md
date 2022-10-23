@@ -1,2 +1,2 @@
 # Sololearn_Python
- Learning python via ssSololearn
+ Learning python via Sololearn
